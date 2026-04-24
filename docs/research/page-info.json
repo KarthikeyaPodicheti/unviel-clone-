@@ -1,0 +1,28 @@
+{
+  "fontFamilies": [
+    "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "Inter, sans-serif"
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgb(255, 255, 255)",
+    "oklab(0.708 0 0 / 0.8)",
+    "oklch(0.985 0 0)",
+    "oklab(0 0 0 / 0.1)",
+    "oklch(0.708 0 0)",
+    "oklch(0.205 0 0)",
+    "oklch(0.439 0 0)",
+    "oklch(0.97 0 0)",
+    "oklab(0.439 0 0 / 0.3)"
+  ],
+  "images": [],
+  "videos": [
+    {
+      "src": "https://pub-8c02bb0f8aa04c19b7b7ee44644801fd.r2.dev/videos/1280/28bc38d8-d36a-426a-a48b-2cf94c5ded8b.mp4",
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    }
+  ]
+}

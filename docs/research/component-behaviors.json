@@ -1,0 +1,147 @@
+[
+  {
+    "element": "Filter pill 0",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 1",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 2",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 3",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 4",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 5",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 6",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 7",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 8",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 9",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 10",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 11",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 12",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 13",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 14",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 15",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 16",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 17",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Filter pill 18",
+    "selector": ".flex.flex-wrap.justify-center.gap-2 a",
+    "property": "backgroundColor",
+    "originalValue": "oklch(0.97 0 0)",
+    "interactionType": "hover"
+  },
+  {
+    "element": "Visit Button",
+    "selector": "a[href=\"https://unveil.fr?ref=godly\"]",
+    "interactionType": "click",
+    "action": "navigate to https://unveil.fr?ref=godly"
+  },
+  {
+    "element": "Logo Link",
+    "selector": ".fixed.top-3.left-5 a",
+    "interactionType": "click",
+    "action": "navigate to homepage"
+  }
+]
